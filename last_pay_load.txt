@@ -1,0 +1,6 @@
+{
+    "cognome" : "",
+    "nome" : "",
+    "email" : "",
+    "cellulare" : ""
+}

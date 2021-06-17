@@ -1,0 +1,4 @@
+{
+    "cod_fiscale" : "",
+    "num_tessera" : ""
+}

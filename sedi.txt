@@ -1,0 +1,7 @@
+{
+    "VILLORBA" : "/sceglidata/sede/52",
+    "GODEGA" : "/sceglidata/sede/51",
+    "PONTE_DI_PIAVE" : "/sceglidata/sede/50",
+    "RESE_PIO" : "/sceglidata/sede/53",
+    "VIDOR" : "/sceglidata/sede/54"
+}
