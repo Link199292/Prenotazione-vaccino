@@ -24,4 +24,4 @@ Ad esempio:
 }
 un file impostato in questo modo cercherà date disponibili solo per la sede di Villorba.
 
-- **ultima_data.txt**: inserendo, nella prima linea, una data nel formato 'YYYY-MM-DD' sarà possibile selezionare una soglia per le date ricercate (e.g. inserendo '2021-8-31, cercherà date disponibili a partire da oggi, fino al 31 agosto, incluso).
+- **ultima_data.txt**: inserendo, nella prima linea, una data nel formato 'YYYY-MM-DD' sarà possibile selezionare una soglia per le date ricercate (e.g. inserendo 2021-8-31, cercherà date disponibili a partire da oggi, fino al 31 agosto, incluso).
